@@ -6,8 +6,8 @@ export default function Blocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">The majority our customers do not understand their workflows.</h2>
-            <p className="text-xl text-gray-400">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <h2 className="h2 mb-4">API attacks are on the rise</h2>
+            <p className="text-xl text-gray-400">With the increasing reliance on APIs, the need to prioritize API security and visibility has never been more critical. By safeguarding and gaining deeper insights into API operations, businesses can effectively protect their valuable data, maintain customer trust, and stay one step ahead of emerging threats.</p>
           </div>
 
           {/* Items */}

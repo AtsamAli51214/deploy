@@ -36,6 +36,16 @@ export default function Hero() {
             </div>
           </div>
 
+          <div className='mt-4'>
+          <iframe
+          src="https://chainwide-1e751.web.app"
+          title="External Website"
+          width="100%"
+          height="800px"
+          frameBorder="0"
+        />
+          </div>
+
           <ModalVideo
             thumb={VideoThumb}
             thumbWidth={1024}
@@ -44,19 +54,6 @@ export default function Hero() {
             video="/videos/video.mp4"
             videoWidth={1920}
             videoHeight={1080} />
-            <div>
-          <div className='mt-4'>
-          <iframe
-          src="https://648a063d252aaf06974cd6fd--benevolent-dango-143bcc.netlify.app/"
-          title="External Website"
-          width="100%"
-          height="800px"
-          frameBorder="0"
-        />
-          </div>
-       
-      </div>
-
         </div>
 
       </div>

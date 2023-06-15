@@ -20,7 +20,7 @@ export default function Footer() {
                   </svg>
                 </Link>
               </div>
-              <div className="text-gray-400">Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups.</div>
+              <div className="text-gray-400">Unleash the power of real-time API protection with our Chainwide. Zero-trust security, real-time threat visibility, and unrivaled protection against API security threats. Secure your APIs effortlessly!</div>
             </div>
 
             {/* 2nd, 3rd and 4th blocks */}
@@ -135,7 +135,7 @@ export default function Footer() {
             </ul>
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Cruip.com. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; Chainwide.io. All rights reserved.</div>
 
           </div>
 
